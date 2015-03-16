@@ -1,0 +1,21 @@
+#container { 
+  background: url(bg.jpg) no-repeat center center fixed; 
+  height: 100%;
+  width: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position:left top;
+  margin: 0 auto 0 auto;
+  height: 100%;
+  width:100%;
+  z-index: 1;
+  position: absolute;
+  top:0;
+  left: 0;
+  /*
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  */
+}
